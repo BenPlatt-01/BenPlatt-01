@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ben!<br>👀 I’m interested in Game Design, Application Development and Software Engineering.<br>🌱 I’m currently learning the ins and outs of Game Development by making a game along side my friend in our free time.
+👋 Hi, I’m Ben!<br>👀 I’m interested in Game Design, Application Development and Software Engineering.<br>🌱 I’m currently learning the ins and outs of Game Development by making a game along side my friends in our free time.
 
 
 # 💻 Tech Stack:
